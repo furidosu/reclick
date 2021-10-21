@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2018"
 description = "Recorder and replayer of mouse clicks."
 license-file = "LICENSE"
-documentation = ""
 repository = "https://github.com/furidosu/reclick"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
